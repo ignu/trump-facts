@@ -1,0 +1,26 @@
+{
+  "name": "trump-facts",
+  "version": "1.0.0",
+  "description": "Just a list of facts about Donald Trump",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignu/trump-facts.git"
+  },
+  "keywords": [
+    "trump",
+    "facts"
+  ],
+  "author": "Len Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignu/trump-facts/issues"
+  },
+  "homepage": "https://github.com/ignu/trump-facts#readme",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
+}
