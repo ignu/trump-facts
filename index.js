@@ -5,5 +5,7 @@ var titles = R.map(function(i){
   return i.title;
 })(R.reverse(data.crazy))
 
-console.log('titles', titles);
-console.log("Trump believes that " + titles.join(', '));
+
+module.exports = {
+  data: data
+}
