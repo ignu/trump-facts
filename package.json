@@ -1,6 +1,6 @@
 {
   "name": "trump-facts",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Just a list of facts about Donald Trump",
   "main": "index.js",
   "scripts": {
