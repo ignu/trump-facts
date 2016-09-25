@@ -14,7 +14,7 @@ var data = {
       ]
     },
     {
-      title: "after the military balked, he promised to make them commit war crimes",
+      title: "promised to force them military commit war crimes after they balked",
       urls: [
         "http://www.washingtontimes.com/news/2016/mar/3/donald-trump-says-hed-force-us-military-commit-war/",
         "http://www.politifact.com/truth-o-meter/statements/2015/dec/17/rand-paul/rand-pauls-right-geneva-conventions-bar-donald-tru/",
@@ -26,8 +26,20 @@ var data = {
       ]
     },
     {
-      title: "on torture he thinks \"Even if it doesn't work they probably deserved it anyway\"",
+      title: "thinks about torture \"Even if it doesn't work they probably deserved it anyway\"",
       urls: ["http://www.cnn.com/2016/03/11/opinions/trump-wrong-on-american-torture/", "http://www.cnsnews.com/news/article/patrick-goodenough/trump-waterboarding-it-works-if-it-doesnt-work-they-deserve-it", "https://www.theguardian.com/us-news/2015/nov/24/donald-trump-on-waterboarding-even-if-it-doesnt-work-they-deserve-it"]
+    },
+    {
+      title: "points to ISIS to justify torture saying we should be \"fighting fire with fire\"",
+      urls: ["http://talkingpointsmemo.com/livewire/trump-responds-istanbul-waterboarding-torture"]
+    },
+    {
+      title: "said “The problem is we have the Geneva Conventions, all sorts of rules and regulations, so the soldiers are afraid to fight”",
+      urls: "http://www.politico.com/blogs/2016-gop-primary-live-updates-and-results/2016/03/donald-trump-geneva-conventions-221394#ixzz4LJ1DEgmt"
+    }
+    {
+      title: "won't rule out using nuclear weapons in Europe, since it's 'a big place'",
+      urls: ["http://www.independent.co.uk/news/world/americas/us-elections/donald-trump-refuses-to-rule-out-using-nuclear-weapons-in-attack-on-europe-a6961101.html"]
     }
   ],
   crazy: [
@@ -46,6 +58,7 @@ var data = {
     },
     {
       title: "temperatures are at record lows",
+
       full_title: "Global Warming is \"bullshit\" and temperatures are at record lows",
       urls: [
         "https://twitter.com/realDonaldTrump/status/418542137899491328?ref_src=twsrc%5Etfw"
