@@ -36,10 +36,85 @@ var data = {
     {
       title: "said “The problem is we have the Geneva Conventions, all sorts of rules and regulations, so the soldiers are afraid to fight”",
       urls: "http://www.politico.com/blogs/2016-gop-primary-live-updates-and-results/2016/03/donald-trump-geneva-conventions-221394#ixzz4LJ1DEgmt"
-    }
+    },
     {
       title: "won't rule out using nuclear weapons in Europe, since it's 'a big place'",
       urls: ["http://www.independent.co.uk/news/world/americas/us-elections/donald-trump-refuses-to-rule-out-using-nuclear-weapons-in-attack-on-europe-a6961101.html"]
+    },
+    {
+      title: "lethal injection is “too comfortable”",
+      full_title: "lethal injection is “too comfortable” a form of capital punishment",
+      urls: ["http://thinkprogress.org/justice/2016/03/02/3755065/trump-criminal-justice/"]
+    },
+    {
+      title: "wants to solve high gas prices by invading countries and stealing their oil",
+      full_title: "Trump's solution for high gas prices is to violate The Geneva Convention by invading several of America's allies in the Middle East and Africa unprovoked to forcibly seize the oil fields for himself.",
+      urls: ["http://blogs.abcnews.com/george/2011/04/donald-trumps-solution-on-gas-prices-get-tough-with-saudi-arabia-seize-oil-fields-in-libya-and-iraq.html", "http://www.forbes.com/sites/williampentland/2011/04/23/dumbest-guy-in-the-room-donald-trumps-energy-policy/#700458db29b9"]
+    },
+    {
+      title: "when asked about that plan, clarrified that “We’re not stealing anything. We’re taking.“",
+      full_title: "When asked for clarification about the above mentioned plan to steal land from multiple nations on two different continents Trump responded with, “We’re not stealing anything. We’re taking.“",
+      urls: ["http://content.time.com/time/specials/packages/article/0,28804,2068227_2068229_2068345,00.html"]
+    },
+    {
+      title: "proposes mandatory death penalty for killing a police officer",
+      full_title: "proposes mandatory death penalty for killing a police officer",
+      urls: ["http://www.cnn.com/2015/12/10/politics/donald-trump-police-officers-death-penalty/"]
+    },
+    {
+      title: "pledges to open up Libel Laws on Newspapers to stile freedom of speech",
+      full_title: "pledges to open up Libel Laws on Newspapers",
+      urls: ["https://www.washingtonpost.com/news/the-fix/wp/2016/02/26/donald-trump-vows-to-open-up-libel-laws-to-make-suing-the-media-easier-heres-how-he-could-do-it/", "http://www.npr.org/2016/03/26/471846238/trumps-promise-to-open-up-libel-laws-unlikely-to-be-kept", "http://money.cnn.com/2016/02/26/media/donald-trump-libel-laws/", "http://www.pbs.org/newshour/rundown/trump-threatens-to-weaken-first-amendment-protections-for-reporters/","http://www.cnsnews.com/news/article/susan-jones/trump-would-absolutelyopen-libel-laws-so-person-mecan-bring-lawsuits", "http://www.theguardian.com/us-news/2016/feb/26/trump-pledges-curb-press-freedom-libel-laws-first-amendment", "http://thefederalist.com/2016/03/22/donald-trump-doesnt-understand-libel-laws/", "http://www.sfchronicle.com/opinion/diaz/article/Trump-takes-on-First-Amendment-6871309.php"]
+    },
+    {
+      title: "incites violence by his supporters",
+      full_title: "incites violence by his supporters",
+      urls: ["http://www.reuters.com/article/us-usa-election-idUSKCN0WM0RJ", "http://english.alarabiya.net/en/News/world/2016/03/21/Trump-refuses-to-condemn-violence-at-his-U-S-presidential-rallies-.html", "http://www.japantoday.com/category/world/view/trump-refuses-to-condemn-violence-at-his-rallies", "http://www.nationalmemo.com/trump-refuses-to-condemn-violence-at-his-u-s-presidential-rallies/", "http://www.vox.com/2016/3/14/11219256/trump-violent"]
+    }, 
+    {
+      title: "defends 'passionate' supporters who brutally beat and urinated on a homeless man",
+      full_title: "defends 'passionate' supporters who brutally beat and urinated on a homeless man",
+      urls: ["https://www.washingtonpost.com/news/morning-mix/wp/2015/08/21/trump-says-fans-are-very-passionate-after-hearing-one-of-them-allegedly-assaulted-hispanic-man/", "http://www.ibtimes.co.uk/donald-trump-calls-boston-brothers-who-beat-homeless-hispanic-man-his-name-passionate-1516392", "https://www.bostonglobe.com/metro/2015/08/20/after-two-brothers-allegedly-beat-homeless-man-one-them-admiringly-quote-donald-trump-deporting-illegals/I4NXR3Dr7litLi2NB4f9TN/story.html", "http://gothamist.com/2015/08/20/trump_ugh_enough.php", "http://national.suntimes.com/national-world-news/7/72/1680630/trump-boston-hate-crime/", "http://www.dailymail.co.uk/news/article-3204702/Boston-brothers-viciously-attack-urinate-homeless-Hispanic-man-inspired-Donald-Trump-responds-saying-passionate-supporters.html"]
+    }, 
+    {
+      title: "says he would love to punch protesters",
+      full_title: "says he would love to punch protesters",
+      urls: ["https://www.washingtonpost.com/news/morning-mix/wp/2016/02/23/donald-trump-on-protester-id-like-to-punch-him-in-the-face/", "http://www.independent.co.uk/news/people/donald-trump-tells-vrowd-he-wants-to-punch-protester-in-the-face-at-nevada-rally-a6890981.html", "http://www.nytimes.com/politics/first-draft/2016/02/23/donald-trump-on-protester-id-like-to-punch-him-in-the-face/", "http://www.cnn.com/2016/02/23/politics/donald-trump-nevada-rally-punch/"]
+    }, 
+    {
+      title: "jokes about murdering reporters",
+      full_title: "jokes about murdering reporters",
+      urls: ["http://www.cnn.com/2015/12/21/politics/trump-putin-killing-reporters/"]
+    }, 
+    {
+      title: "called for the execution of minoirty children known as 'The Central Park Five' (turns out, DNA evidence found they were innocent)",
+      full_title: "calls for the execution of children known as 'The Central Park Five'",
+      urls: ["http://www.theguardian.com/us-news/2016/feb/17/central-park-five-donald-trump-jogger-rape-case-new-york", "http://www.newyorker.com/news/amy-davidson/donald-trump-and-the-central-park-five", "https://twitter.com/realDonaldTrump/status/325982969040879620?ref_src=twsrc%5Etfw"]
+    },
+    {
+      title: "but he still implies they were guilty",
+      full_title: "but he still implies they were guilty",
+      urls: ["https://twitter.com/realDonaldTrump/status/325982969040879620?ref_src=twsrc%5Etfw"]
+    }, 
+    {
+      title: "says he might have insituted internment camps in WWII",
+      full_title: "says he might have insituted internment camps in WWII",
+      urls: ["http://time.com/4140050/donald-trump-muslims-japanese-internment/"]
+    },
+    {
+      title: "wants to remove Muslim TSA agents",
+      full_title: "wants to remove Muslim TSA agents",
+      urls: ["http://www.nydailynews.com/news/politics/donald-trump-considers-supporter-plan-fire-muslim-tsa-agents-article-1.2695675", "http://abcnews.go.com/Politics/donald-trump-request-rally-goer-replace-hijab-wearing/story?id=40269164"]
+    }, 
+    {
+      title: "said Chinese government 'showed strength' in response to the Tienanmen Square protests",
+      full_title: "said Chinese government 'showed strength' in response to the Tienanmen Square protests",
+      urls: ["https://www.theguardian.com/us-news/2016/mar/11/donald-trump-tiananmen-square-china-playboy-interview"]
+    },
+    {
+      title: "calls for snowden to be executed saying 'kill the traitor'",
+      full_title: "calls for snowden to be executed saying 'kill the traitor'",
+      urls: ["http://www.washingtontimes.com/news/2013/jul/2/donald-trump-edward-snowden-kill-traitor/"]
     }
   ],
   crazy: [
