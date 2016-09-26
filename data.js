@@ -1,7 +1,8 @@
 var data = {
   prefixes: {
     crazy: "Donald Trump believes",
-    fascist: "Donald Trump is a fascist"
+    fascist: "Donald Trump is a fascist",
+    sexist: "Donald Trump is a sexist"
   },
   liar: [
     {
@@ -436,7 +437,110 @@ var data = {
       full_title: "79 year old Scalia was murdered",
       urls: ["http://www.rightwingwatch.org/content/donald-trump-raises-suspicions-about-justice-scalias-death"]
     },
-  ]
+  ],
+  sexist: [
+    {
+      title: "claims all women are bimbos and gold diggers.",
+      full_title: "claims all women are bimbos and gold diggers.",
+      urls: [
+        "http://new.www.huffingtonpost.com/entry/18-real-things-donald-trump-has-said-about-women_us_55d356a8e4b07addcb442023",
+        "http://www.dailymail.co.uk/news/article-3546047/Beauty-pageant-organizer-accused-Trump-unwanted-fondling-contestant-claimed-said-women-bimbos.html",
+        "http://www.friynds.com/m/news/view/-n-Donald-Trump-claimed-to-have-said-039-all-women-are-bimbos-039-at-beauty-pageant-n"]
+    },
+    {
+      title: "claims women who breastfeed are disgusting.",
+      full_title: "claims women who breastfeed are disgusting.",
+      urls: ["http://www.dailymail.co.uk/news/article-3178232/Trump-called-lawyer-disgusting-asked-court-break-pump-breast-milk.html"]
+    },
+    {
+      title: "employee describes Trump committing workplace sexual misconduct.",
+      full_title: "employee describes Trump committing workplace sexual misconduct.",
+      urls: ["http://www.nydailynews.com/opinion/barbara-res-donald-trump-boss-article-1.2525669"]
+    },
+    {
+      title: "employee frequently mentioned in speeches by Trump as proof of him not being a sexist blasts Trump as being a sexist.",
+      full_title: "employee frequently mentioned in speeches by Trump as proof of him not being a sexist blasts Trump as being a sexist.",
+      urls: ["http://www.theguardian.com/commentisfree/2016/apr/27/donald-trump-barbara-res-woman-card", "http://www.thedailybeast.com/articles/2016/02/25/donald-trump-s-tower-boss.html","http://www.dailymail.co.uk/news/article-3492514/Female-former-Trump-tower-chief-hailed-example-supporting-women-says-billionaire-not-want-president.html", "http://www.slate.com/articles/news_and_politics/politics/2016/03/donald_trump_has_one_core_philosophy_misogyny.html", "https://www.washingtonpost.com/politics/donald-trump-a-champion-of-women-his-female-employees-think-so/2015/11/23/7eafac80-88da-11e5-9a07-453018f9a0ec_story.html"]
+    },
+    {
+      title: "refuses to hire mothers because, “She’s not giving me 100%. She’s giving me 84% and 16% is going towards taking care of children.”",
+      full_title: "refuses to hire mothers because, “She’s not giving me 100%. She’s giving me 84% and 16% is going towards taking care of children.”",
+      urls: ["http://thisguycantbepresident.com/mothers-dont-deserve-jobs/"]
+    },
+    {
+      title: "thinks the Disney movie Mulan was liberal propaganda created to convince women to join the military instead of staying home where they belong in order to weaken the military.",
+      full_title: "thinks the Disney movie Mulan was liberal propaganda created to convince women to join the military instead of staying home where they belong in order to weaken the military.",
+      urls: ["https://www.buzzfeed.com/andrewkaczynski/mister-ill-make-a-man-out-of-you?utm_term=.miJgBapyx#.dvZEldG9v"]
+    },
+    {
+      title: "said '[women] you have to treat 'em like shit' before pouring wine down the back of a female journalist and bragging about it",
+      full_title: "said '[women] you have to treat 'em like shit' before pouring wine down the back of a female journalist and bragging about it",
+      urls: ["http://www.thedailybeast.com/articles/2015/08/08/you-have-to-treat-em-like-shit-before-megyn-kelly-trump-dumped-wine-on-a-female-reporter.html", "http://www.ibtimes.com/42-horrible-things-donald-trump-has-said-about-women-next-republican-presidential-2345140"]
+    },
+    {
+      title: "defends Roger Ailes as 'a Very Good Person'",
+      full_title: "defends CEO of Fox News after being forced to resign due to multiple accusations of sexual harassment. 'He's a Very Good Person'",
+      urls: ["http://www.hollywoodreporter.com/news/donald-trump-defends-roger-ailes-913993"]
+    },
+    {
+      title: "forces models to do humiliating tasks to 'Weed out the ugly ones'",
+      urls: ["http://www.newser.com/story/73902/trump-weeds-out-ugly-girls.html",
+      "http://www.washingtonpost.com/lifestyle/style/column-anna-holmes-on-donald-trumps-sexism/2011/04/21/AFmSfEHF_story.html"]
+  },
+    {
+      title: "argues prosecutor should allow rapist to pay victim compensation instead of face jail time.",
+      full_title: "argues prosecutor should allow rapist to pay victim compensation instead of face jail time.",
+      urls: ["https://news.google.com/newspapers?nid=1314&dat=19920214&id=BV1WAAAAIBAJ&sjid=QPADAAAAIBAJ&pg=2003,1825091&hl=en"]
+    },
+    {
+      title: "defends military personnel accused of sexual assault and rape by putting the blame on the fact women are allowed to serve along men in the military.",
+      full_title: "defends military personnel accused of sexual assault and rape by putting the blame on the fact women are allowed to serve along men in the military.",
+      urls: [
+        "http://www.inquisitr.com/2733754/yes-donald-trumps-sexual-assault-in-the-military-tweet-is-real/",
+        "http://new.www.huffingtonpost.com/2013/05/08/donald-trump-tweet-sexual-assault-military_n_3239781.html"]
+    },
+    {
+      title: "stalked Princess Diana and later bragged, “ I Could Have Nailed her”",
+      full_title: "stalked Princess Diana and later bragged, “ I Could Have Nailed her”",
+      urls: ["http://www.starpulse.com/creepy-donald-trump-reportedly-stalked-princess-diana-who-he-considere-1848499616.html", "http://www.thedailybeast.com/articles/2016/02/26/trump-i-could-have-nailed-princess-diana.html"]
+    },
+    {
+      title: "Multiple women working on Trump campaign file complaints with Civil Rights Commission against Trump for sexual harassment or sexual discrimination.",
+      full_title: "Multiple women working on Trump campaign file complaints with Civil Rights Commission against Trump for sexual harassment or sexual discrimination.",
+      urls: ["https://www.washingtonpost.com/news/post-politics/wp/2016/01/31/donald-trump-denies-allegations-of-gender-based-discrimination-from-former-employee/"]
+    },
+    {
+      title: "claims Trump tried to rape her her and told her he wanted to, “Make her his sex slave.” Afterwards Trump ruins her and her husband financially.",
+      full_title: "claims Trump tried to rape her her and told her he wanted to, “Make her his sex slave.” Afterwards Trump ruins her and her husband financially.",
+      urls: ["http://www.nydailynews.com/archives/gossip/harassment-suit-trumped-article-1.764918",
+       "http://bipartisanreport.com/2016/03/07/donald-trump-has-a-125-million-sexual-assault-lawsuit-that-he-didnt-want-you-to-know-about/"]
+    },
+    {
+      title: "Pageant Contestants claims Trump sexually assaulted her.",
+      full_title: "Pageant Contestants claims Trump sexually assaulted her.",
+      urls: ["http://www.newser.com/story/225129/donald-trump-kissed-pageant-contestants-on-the-mouth.html"]
+    },
+    {
+      title: "is accused of rape by his ex-wife.",
+      full_title: "is accused of rape by his ex-wife.",
+      urls: ["http://www.express.co.uk/news/world/638063/Donald-Trump-rape-ex-wife-Ivana-plastic-surgery-operation-documentary", "http://www.independent.co.uk/news/people/donald-trump-ex-wife-claim-he-raped-her-resurfaces-in-new-documentary-a6836151.html", "http://gawker.com/the-time-donald-trumps-ex-wife-accused-him-of-brutally-1721129617", "https://broadly.vice.com/en_us/article/he-raped-me-when-donald-trump-was-accused-of-sexual-assault?utm_source=vnfbus"]
+    },
+    {
+      title: "accused of rape or sexual assault by numerous women over several decades",
+      full_title: "accused of rape or sexual assault by numerous women over several decades",
+      urls: ["http://www.dailymail.co.uk/news/article-3578088/Dark-tales-molesting-beauty-queens-raping-ex-wife-Claims-racism-cosying-mafia-gets-closer-White-House-TRUMP-stripped-bare.html", "http://www.dailyrecord.co.uk/news/uk-world-news/donald-trump-accused-rape-woman-7858242#rJUj9YEHx7x9Hf8m.97", "http://www.mirror.co.uk/news/world-news/donald-trump-denies-rape-teenage-7857357", "https://www.mrconservative.com/2016/04/72311-breaking-trump-accused-of-raping-13-year-old-girl/", "http://www.inquisitr.com/3044556/donald-trump-rape-lawsuit-claims-trump-forced-12-and-13-year-old-girls-to-peform-oral-sex-on-him/", "http://www.redstate.com/sweetie15/2016/04/29/donald-trump-named-lawsuit-alleging-rape-teen-girl/", "http://www.dailymail.co.uk/news/article-3546047/Beauty-pageant-organizer-accused-Trump-unwanted-fondling-contestant-claimed-said-women-bimbos.html", "http://www.nydailynews.com/archives/gossip/harassment-suit-trumped-article-1.764918b", "http://www.independent.co.uk/news/world/americas/donald-trump-unsettling-behaviour-dozens-women-a7030506.html", "http://therealdeal.com/2016/06/20/jane-doe-files-civil-rape-complaint-against-donald-trump-in-ny-court/", "http://www.deathandtaxesmag.com/294361/donald-trump-jeffrey-epstein-teen-girl-rape/"]
+    }, 
+    {
+      title: "Over 50 former Trump models describe Trumps distrust of women, his numerous affairs and his habit of forcing himself onto women half his age while making unwanted sexual advances.",
+      full_title: "Over 50 former Trump models describe Trumps distrust of women, his numerous affairs and his habit of forcing himself onto women half his age while making unwanted sexual advances.",
+      urls: ["http://www.nytimes.com/2016/05/15/us/politics/donald-trump-women.html"]
+    },
+    {
+      title: "Journalist claims Trump sexually harassed her after interview.",
+      full_title: "Journalist claims Trump sexually harassed her after interview.",
+      urls: ["http://www.newsflow24.com/donald-trump-sexually-harassed-a-washington-post-editor-after-their-foreign-policy-interview%E2%80%93get-the-deets-rzl9"]
+    }
+  ],
 }
 
 module.exports = data;

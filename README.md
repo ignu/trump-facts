@@ -11,7 +11,7 @@ There are four different arrays of facts
 * fascist 
 * crazy
 * liar
-* racist
+* sexist
 
 Inside each of those are an array of objects with the following data
 
