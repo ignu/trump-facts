@@ -4,6 +4,8 @@ I truly believe this election is terrifyingly close because the massive amount o
 
 Maybe this is compounding it? But hopefully this can be used in project to make a compelling case.
 
+See an example at: [Donald Trump is... 🇺🇸🚀](http://donaldjtrumpis.com/)
+
 There are four different arrays of facts
 
 * fascist 
