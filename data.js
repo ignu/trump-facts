@@ -3,9 +3,233 @@ var data = {
     crazy: "Donald Trump believes",
     fascist: "Donald Trump is a fascist"
   },
+  liar: [
+    {
+      title: "lied 87 times in a week. once every three miutes",
+      urls: ["http://www.politico.com/magazine/story/2016/09/2016-donald-trump-fact-check-week-214287?utm_source=huffingtonpost.com&utm_medium=referral&utm_campaign=pubexchange"]
+    },
+    {
+      title: "claims Mexicans are pouring into the U.S despite statistics showing more Mexicans leaving the U.S than coming in every year",
+      full_title: "claims Mexicans are pouring into the U.S despite statistics showing more Mexicans leaving the U.S than coming in every year",
+      urls: ["http://www.pewhispanic.org/2015/11/19/more-mexicans-leaving-than-coming-to-the-u-s/"]
+    },
+    {
+      title: "lies about self funding his campaign",
+      full_title: "lies about self funding his campaign",
+      urls: ["http://www.theatlantic.com/politics/archive/2016/05/trumps-self-funding-lie/482691/", "http://www.ijreview.com/2015/11/469588-donald-trump-keeps-saying-his-campaign-is-self-funded-but-that-is-just-not-true/", "http://www.politico.com/story/2015/10/donald-trump-fec-fundraising-214838", "http://www.politicususa.com/2016/05/15/myth-donald-trumps-self-funded-campaign-officially-dead.html", "http://therightscoop.com/cnn-exposes-trump-lie-that-hes-self-funding-his-campaign/"]
+    },
+    {
+      title: "lies about campaign spending",
+      full_title: "lies about campaign spending",
+      urls: ["https://www.opensecrets.org/pres16/candidate.php?id=N00023864", "http://www.nytimes.com/politics/first-draft/2016/01/04/donald-trump-finally-takes-out-his-checkbook-for-tv-ad-buys/", "http://realtime.influenceexplorer.com/race/president/"]
+    },
+    {
+      title: "falsely claims Trump: The Art of the Deal is the best selling business book of all time.",
+      full_title: "falsely claims Trump: The Art of the Deal is the best selling business book of all time.",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2015/jul/06/donald-trump/donald-trumps-art-deal-best-selling-business-book-/"]
+    },
+    {
+      title: "lied about his campaign manager assaulting a female reporter until it was caught on tape",
+      full_title: "lied about his campaign manager assaulting a female reporter until it was caught on tape",
+      urls: ["http://www.theatlantic.com/politics/archive/2016/03/trump-breitbart/473262/", "https://www.jupiter.fl.us/ArchiveCenter/ViewFile/Item/448", "http://injo.com/2016/03/558061-breitbart-news-reporter-files-criminal-charges-against-trump-campaign-manager-corey-lewandowski/", "http://www.theatlantic.com/politics/archive/2016/03/michelle-fields-charges-corey-lewandowski-trump/473388/", "http://www.theatlantic.com/politics/archive/2016/03/corey-lewandowski-arrested/475827/"]
+    },
+    {
+      title: "falsely claims Hillary wants to release violent criminals from jail",
+      full_title: "falsely claims Hillary wants to release violent criminals from jail",
+      urls: ["http://www.nytimes.com/2016/05/21/us/politics/nra-guns-donald-trump-hillary-clinton.html"]
+    },
+    {
+      title: "lies about polls",
+      full_title: "lies about polls",
+      urls: ["http://www.dailywire.com/news/4373/trump-keeps-saying-polls-show-him-beating-hillary-aaron-bandler#modal"]
+    },
+    {
+      title: "claims the U.S is “losing jobs like never before.” only a few days after acknowledging job numbers showing the creation of 271,000 jobs in a month",
+      full_title: "claims the U.S is “losing jobs like never before.” only a few days after acknowledging job numbers showing the creation of 271,000 jobs in a month",
+      urls: ["http://blogs.wsj.com/briefly/2015/11/06/october-jobs-report-the-numbers-2/", "http://benevabusinessconsultants.com/blog/2016/05/06/fact-checking-tuesdays-gop-presidential-debate/"]
+    },
+    {
+      title: "lies and claims president Obama is going to import a quarter of a million refugees when the real number is 25 times lower.",
+      full_title: "lies and claims president Obama is going to import a quarter of a million refugees when the real number is 25 times lower.",
+      urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2015/12/14/the-biggest-pinocchios-of-2015/"]
+    },
+    {
+      title: "lies and claims the U.S has no process for vetting refugees",
+      full_title: "lies and claims the U.S has no process for vetting refugees",
+      urls: ["http://www.alan.com/2016/06/14/trump-falsely-claims-no-system-for-vetting-refugees/"]
+    },
+    {
+      title: "lies and claims the U.S only allows Muslim refugees and refuses to let Christians in.",
+      full_title: "lies and claims the U.S only allows Muslim refugees and refuses to let Christians in.",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2015/jul/20/donald-trump/donald-trump-says-if-youre-syria-and-christianyou-/"]
+    },
+    {
+      title: "claims “scores” of U.S migrants have been charged with terrorism when the actual number is 0",
+      full_title: "claims “scores” of U.S migrants have been charged with terrorism when the actual number is 0",
+      urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2016/05/02/donald-trumps-false-claim-that-scores-of-recent-migrants-in-the-u-s-are-charged-with-terrorism/"]
+    },
+    {
+      title: "lies about French Gun Laws after Paris Attack.",
+      full_title: "lies about French Gun Laws after Paris Attack.",
+      urls: ["http://www.washingtonpost.com/wp-srv/special/nation/gun-homicides-ownership/table/", "http://www.mediaite.com/online/that-donald-trump-paris-gun-control-tweet-was-from-back-in-january/"]
+    },
+    {
+      title: "lies and claims he lost hundreds of friends during 9/11 yet can’t give a single name.",
+      full_title: "lies and claims he lost hundreds of friends during 9/11 yet can’t give a single name.",
+      urls: ["http://www.thedailybeast.com/articles/2016/02/17/donald-trump-s-hundreds-of-9-11-lies.html", "http://www.redstate.com/streiff/2016/02/17/donald-trump-lies-knowing-911-victims-just-everything-else/", "http://www.independent.co.uk/news/world/americas/trump-won-t-name-any-of-the-hundreds-of-friends-he-says-he-lost-in-911-attacks-a6879651.html", "http://therightscoop.com/ted-cruz-talks-about-his-friend-who-died-in-911-trump-cant-name-one-of-hundreds-of-his-who-did/", "http://www.businessinsider.com/ap-trumps-911-narrative-memory-and-hyperbole-15-years-later-2016-4"]
+    },
+    {
+      title: "claims the 9/11 hijackers' wives knew what was going to happen and were sent home before the attack despite the fact none of the 9/11 hijackers were married.",
+      full_title: "claims the 9/11 hijackers' wives knew what was going to happen and were sent home before the attack despite the fact none of the 9/11 hijackers were married.",
+      urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2015/12/06/trumps-dubious-claim-that-the-911-hijackers-wives-knew-exactly-what-was-going-to-happen/"]
+    },
+    {
+      title: "claims he saw thousands of Muslims celebrating while the twin towers fell on 9/11 on the news and refuses to admit he lied after the claim is completely debunked",
+      full_title: "claims he saw thousands of Muslims celebrating while the twin towers fell on 9/11 on the news and refuses to admit he lied after the claim is completely debunked",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2015/nov/22/donald-trump/fact-checking-trumps-claim-thousands-new-jersey-ch/", "https://www.washingtonpost.com/news/fact-checker/wp/2015/11/22/donald-trumps-outrageous-claim-that-thousands-of-new-jersey-muslims-celebrated-the-911-attacks/", "http://time.com/4131439/donald-trump-muslims-9-11-video/"]
+    },
+    {
+      title: "claims Orlando shooter was foreign born immigrant despite being born in the same city as Trump.",
+      full_title: "claims Orlando shooter was foreign born immigrant despite being born in the same city as Trump.",
+      urls: ["http://thinkprogress.org/politics/2016/06/13/3787964/trump-afghan-orlando-shooting/"]
+    },
+    {
+      title: "claims four out of five white people who were victims of homicide were murdered by blacks after rewtweeting statistics made up by Neo-Nazis.",
+      full_title: "claims four out of five white people who were victims of homicide were murdered by blacks after rewtweeting statistics made up by Neo-Nazis.",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/", "http://www.factcheck.org/2015/11/trump-retweets-bogus-crime-graphic/"]
+    },
+    {
+      title: "falsely claims Oakland And Ferguson among the most dangerous cities in the world, when in reality they aren’t even among the most dangerous cities in their states.",
+      full_title: "falsely claims Oakland And Ferguson among the most dangerous cities in the world, when in reality they aren’t even among the most dangerous cities in their states.",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2016/may/25/donald-trump/donald-trumps-false-claim-oakland-ferguson-are-amo/", "https://www.washingtonpost.com/news/the-fix/wp/2016/05/18/donald-trump-somehow-thinks-ferguson-and-oakland-are-dangerous-like-iraq/"]
+    },
+    {
+      title: "lies about his winery being the largest on the east coast.",
+      full_title: "lies about his winery being the largest on the east coast.",
+      urls: ["http://spectator.org/65730_no-donald-trump-does-not-have-largest-winery-east-coast/", "http://www.thedailybeast.com/articles/2016/03/10/trump-wine-is-built-on-acres-of-lies.html"]
+    },
+    {
+      title: "claims June has “no jobs to be had” despite 5.4 million job openings in the U.S. that month. (A 15-year high.)",
+      full_title: "claims June has “no jobs to be had” despite 5.4 million job openings in the U.S. that month. (A 15-year high.)",
+      urls: ["http://money.cnn.com/2015/06/09/news/economy/us-job-opening-highest-in-15-years/"]
+    },
+    {
+      title: "claims the United States is the ‘most highly taxed nation in the world.’",
+      full_title: "claims the United States is the ‘most highly taxed nation in the world.’",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2015/aug/28/donald-trump/donald-trump-says-us-most-highly-taxed-nation-worl/", "https://stats.oecd.org/Index.aspx?DataSetCode=REV"]
+    },
+    {
+      title: "claims the U.S. GDP is below 0",
+      full_title: "claims the U.S GDP is below 0",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2015/jun/16/donald-trump/donald-trump-says-us-gdp-never-negative-ter/"]
+    },
+    {
+      title: "tells New York Times he wants to impose unprecedented 45% tariff on Chinese goods. At debates he accused New York Times of misquoting him admitting how crazy it would and how he would never want it then goes on to argue for the 45% tariff two minutes later.",
+      full_title: "tells New York Times he wants to impose unprecedented 45% tariff on Chinese goods. At debates he accused New York Times of misquoting him admitting how crazy it would and how he would never want it then goes on to argue for the 45% tariff two minutes later.",
+      urls: ["http://www.nytimes.com/politics/first-draft/2016/01/07/donald-trump-says-he-favors-big-tariffs-on-chinese-exports/", "https://www.washingtonpost.com/news/the-fix/wp/2016/01/14/6th-republican-debate-transcript-annotated-who-said-what-and-what-it-meant/"]
+    },
+    {
+      title: "Trump lies and claims obama spent 4 million dollars to conceal school and passport records.",
+      urls: ["http://www.washingtonpost.com/blogs/fact-checker/wp/2015/08/19/trumps-zombie-claim-that-obama-spent-4-million-to-conceal-school-and-passport-records/"]
+    },
+    {
+      title: "Trump lies and claims the U.S Border wall would only cost 8 billion dollars.",
+      urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2016/02/11/trumps-dubious-claim-that-his-border-wall-would-cost-8-billion/"]
+    },
+    {
+      title: "Trump lies and claims John Kasich 'helped' Lehman Brothers ‘destroy the world economy’",
+      full_title: "Trump lies and claims John Kasich 'helped' Lehman Brothers ‘destroy the world economy’",
+      urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2016/03/15/donald-trumps-false-claim-that-john-kasich-helped-lehman-brothers-destroy-the-world-economy/"]
+    },
+    {
+      title: "Trump lies and claims Putin called him a genius.",
+      full_title: "Trump lies and claims Putin called him a genius.",
+      urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2016/05/03/no-putin-did-not-call-donald-trump-a-genius/"]
+    }, 
+    {
+      title: "lies 21 times in a speech",
+      full_title: "lies 21 times in a speech",
+      urls: ["http://www.politicususa.com/2016/07/21/donald-told-21-fact-checked-proven-lies-acceptance-speech.html"]
+    },
+    {
+      title: "Fact checkers go over one of Trumps town hall transcripts and find 71 separate instances within an hour in which Trump made claims that were categorically false.",
+      full_title: "Fact checkers go over one of Trumps town hall transcripts and find 71 separate instances within an hour in which Trump made claims that were categorically false.",
+      urls: ["http://new.www.huffingtonpost.com/entry/donald-trump-fact-check_us_56fc375fe4b0daf53aee9175"]
+    },
+    {
+      title: "claims to not know of David Duke despite mentioning him for 15 years",
+      full_title: "claims to not know of David Duke despite mentioning him for 15 years",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2016/mar/02/donald-trump/trumps-absurd-claim-he-knows-nothing-about-former-/", "http://www.theblaze.com/stories/2016/02/28/donald-trump-just-said-i-dont-know-anything-about-david-duke-but-he-says-something-else-in-interview-from-2000/", "http://www.cnn.com/TRANSCRIPTS/1602/28/sotu.01.html"]
+    },
+    {
+      title: "lies and claims the Mexican government is forcibly deporting convicted criminals into the United States.",
+      full_title: "lies and claims the Mexican government is forcibly deporting convicted criminals into the United States.",
+      urls: ["http://www.politifact.com/truth-o-meter/statements/2015/aug/06/donald-trump/trump-mexican-government-they-send-bad-ones-over/"]
+    },
+    {
+      title: "lies about immigrants and ignores that immigrants are less likely than native born Americans to commit violent crimes or be incarcerated.",
+      full_title: "lies about immigrants and ignores that immigrants are less likely than native born Americans to commit violent crimes or be incarcerated.",
+      urls: ["http://www.wsj.com/articles/the-mythical-connection-between-immigrants-and-crime-1436916798"]
+    },
+    {
+      title: "claims he pulled in 15,000 at speech. Real number is proven to be 4,000.",
+      full_title: "claims he pulled in 15,000 at speech. Real number is proven to be 4,000.",
+      urls: ["http://www.politifact.com/punditfact/statements/2015/jul/15/rachel-maddow/rachel-maddow-says-donald-trump-exaggerated-his-cr/"]
+    },
+    {
+      title: "lied about raising money for veterans",
+      full_title: "lied about raising money for veterans",
+      urls: ["http://news.groopspeak.com/breaking-trump-lied-about-funds-raised-for-veterans-breaks-down-after-questioning/"]
+    },
+    {
+      title: "Trump lies about raising money for Veterans.",
+      full_title: "Trump lies about raising money for Veterans.",
+      urls: ["http://news.groopspeak.com/breaking-trump-lied-about-funds-raised-for-veterans-breaks-down-after-questioning/"]
+    },
+    {
+      title: "Trump claims 300,000 veterans died waiting for medical care with no evidence",
+      full_title: "Trump claims 300,000 veterans died waiting for medical care with no evidence",
+      urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2015/11/17/donald-trump-repeats-inaccurate-figure-that-over-300000-veterans-died-waiting-for-care/"]
+    },
+    {
+      title: "Trump dodged the draft because of 'bone spurs' but is now in 'perfect' health",
+      full_title: "Trump dodged the draft because of 'bone spurs' but is now in 'perfect' health",
+      urls: ["http://www.thesmokinggun.com/file/trump-draft-deferment", "http://reverbpress.com/politics/time-hypocrite-slimebag-donald-trump-lied-dodging-vietnam-draft-video/"]
+    },
+    {
+      title: "lies about donating to charity.",
+      full_title: "lies about donating to charity.",
+      urls: ["http://new.www.huffingtonpost.com/entry/trump-charity-lies_us_575b4094e4b00f97fba86ae1"]
+    },
+    {
+      title: "Claimes he donated $100 million dollars without providing any records or evidence or naming who he donated too.",
+      full_title: "Claimes he donated $100 million dollars without providing any records or evidence or naming who he donated too.",
+      urls: ["http://www.inquisitr.com/2303241/donald-trump-boasts-102-million-in-charity-giving-but-wheres-the-proof/"]
+    },
+    {
+      title: "He's ranked least charitable billionaire",
+      full_title: "He's ranked least charitable billionaire",
+      urls: ["http://www.thesmokinggun.com/documents/celebrity/trump-least-charitable-billionaire-109247"]
+    },
+    {
+      title: " lies about losing lawsuits.",
+      full_title: " lies about losing lawsuits.",
+      urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2016/02/27/donald-trumps-misleading-claim-that-hes-won-most-of-lawsuits-over-trump-university/"]
+    },
+    {
+      title: "he cheats at golf",
+      full_title: "he cheats at golf",
+      urls: ["https://www.washingtonpost.com/lifestyle/style/does-donald-trump-cheat-at-golf-a-washington-post-investigation/2015/09/02/f8a940b2-50c4-11e5-9812-92d5948a40f8_story.html"]
+    },
+    {
+      title: "makes up civil war battle to make his golf club seem more important, questions historians who tell him he’s wrong, makes up fictitious anonymous historians who said he was right, backpedals even further by saying the made-up historians didn’t talk to him but his people when he is asked their names.",
+      full_title: "makes up civil war battle to make his golf club seem more important, questions historians who tell him he’s wrong, makes up fictitious anonymous historians who said he was right, backpedals even further by saying the made-up historians didn’t talk to him but his people when he is asked their names.",
+      urls: ["http://www.nytimes.com/2015/11/25/us/politics/in-renovation-of-golf-club-donald-trump-also-dressed-up-history.html?_r=0"]
+    }
+  ],
   fascist: [
     {
-      title: "openly calls for war crimes, targeting innocent women and children for murder",
+      title: "openly calls for targeting innocent women and children for murder (a war crime)",
       urls: [
         "http://thinkprogress.org/politics/2015/12/15/3732671/trump-isis-kill-family-members/",
         "http://www.independent.co.uk/news/world/americas/donald-trump-reiterates-desire-to-murder-terrorists-families-a6912496.html",
@@ -14,7 +238,7 @@ var data = {
       ]
     },
     {
-      title: "promises he will force them military commit war crimes after they objected",
+      title: "promised to force the military to commit war crimes after they balked",
       urls: [
         "http://www.washingtontimes.com/news/2016/mar/3/donald-trump-says-hed-force-us-military-commit-war/",
         "http://www.politifact.com/truth-o-meter/statements/2015/dec/17/rand-paul/rand-pauls-right-geneva-conventions-bar-donald-tru/",
@@ -26,7 +250,7 @@ var data = {
       ]
     },
     {
-      title: "thinks about torture \"Even if it doesn't work they probably deserved it anyway\"",
+      title: "about torture thinks \"Even if it doesn't work they probably deserved it anyway\"",
       urls: ["http://www.cnn.com/2016/03/11/opinions/trump-wrong-on-american-torture/", "http://www.cnsnews.com/news/article/patrick-goodenough/trump-waterboarding-it-works-if-it-doesnt-work-they-deserve-it", "https://www.theguardian.com/us-news/2015/nov/24/donald-trump-on-waterboarding-even-if-it-doesnt-work-they-deserve-it"]
     },
     {
@@ -95,7 +319,7 @@ var data = {
       title: "but still implies they were guilty after they were exonerated",
       full_title: "but he still implies they were guilty after they were exonerated",
       urls: ["https://twitter.com/realDonaldTrump/status/325982969040879620?ref_src=twsrc%5Etfw"]
-    }, 
+    },
     {
       title: "says he might have insituted internment camps in WWII",
       full_title: "says he might have insituted internment camps in WWII",
