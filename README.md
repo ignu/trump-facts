@@ -21,7 +21,13 @@ this is an order dependent title, the grammer of which expects the previous fact
 
 # full_title
 
-a complete sentence for displaying by itself
+a complete sentence for displaying by itself (optional)
+
+# leaning
+
+-1) appealing to the right
+0) appealing to both sides
+1) appealing to the left
 
 # urls
 
