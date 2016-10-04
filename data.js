@@ -83,6 +83,11 @@ var data = {
       urls: ["http://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/", "http://www.factcheck.org/2015/11/trump-retweets-bogus-crime-graphic/"]
     },
     {
+      title: "claims he can't release his taxes because he's under audit (IRS says that's a B.S. excuse)",
+      full_title: "claims he can't release his taxes because he's under audit (IRS says that's a B.S. excuse)",
+      urls: ["http://www.usatoday.com/story/news/politics/onpolitics/2016/02/26/donald-trump-internal-revenue-service-audits/80996086/"]
+    }
+    {
       title: "claims Oakland and Ferguson are among the most dangerous cities in the world. (they aren’t even among the most dangerous in their states)",
       urls: ["http://www.politifact.com/truth-o-meter/statements/2016/may/25/donald-trump/donald-trumps-false-claim-oakland-ferguson-are-amo/", "https://www.washingtonpost.com/news/the-fix/wp/2016/05/18/donald-trump-somehow-thinks-ferguson-and-oakland-are-dangerous-like-iraq/"]
     },
