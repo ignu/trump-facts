@@ -320,7 +320,7 @@ var data = {
         "https://twitter.com/realDonaldTrump/status/265895292191248385?ref_src=twsrc%5Etfw"
       ],
       debunk: {
-        title: "This fact can be complete debunked by a single google search",
+        title: "This fact can be completely debunked by a single google search",
         urls: [
           "http://www.lenntech.com/greenhouse-effect/global-warming-history.htm",
           "https://en.wikipedia.org/wiki/History_of_climate_change_science#Scientists_increasingly_predict_warming.2C_1970s"
