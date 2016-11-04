@@ -39,7 +39,7 @@ var data = {
       urls: ["http://www.nytimes.com/2016/05/21/us/politics/nra-guns-donald-trump-hillary-clinton.html"]
     },
     {
-      title: "claims the U.S is “losing jobs like never before.” a few days after acknowledging job numbers showing the creation of 271,000 jobs in a month",
+      title: "claimed the U.S is “losing jobs like never before.” days after acknowledging job the creation of 271,000 jobs in a month",
       urls: ["http://blogs.wsj.com/briefly/2015/11/06/october-jobs-report-the-numbers-2/", "http://benevabusinessconsultants.com/blog/2016/05/06/fact-checking-tuesdays-gop-presidential-debate/"]
     },
     {
@@ -83,12 +83,12 @@ var data = {
       urls: ["http://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/", "http://www.factcheck.org/2015/11/trump-retweets-bogus-crime-graphic/"]
     },
     {
-      title: "claims he can't release his taxes because he's under audit (IRS says that's a B.S. excuse)",
+      title: "claims he can't release his taxes because he's under audit (IRS says that's not an excuse)",
       full_title: "claims he can't release his taxes because he's under audit (IRS says that's a B.S. excuse)",
       urls: ["http://www.usatoday.com/story/news/politics/onpolitics/2016/02/26/donald-trump-internal-revenue-service-audits/80996086/"]
     },
     {
-      title: "claims Oakland and Ferguson are among the most dangerous cities in the world. (they aren’t even among the most dangerous in their states)",
+      title: "claimed Oakland and Ferguson are among the most dangerous cities in the world. (they aren’t even among the most dangerous in their states)",
       urls: ["http://www.politifact.com/truth-o-meter/statements/2016/may/25/donald-trump/donald-trumps-false-claim-oakland-ferguson-are-amo/", "https://www.washingtonpost.com/news/the-fix/wp/2016/05/18/donald-trump-somehow-thinks-ferguson-and-oakland-are-dangerous-like-iraq/"]
     },
     {
@@ -160,8 +160,7 @@ var data = {
       urls: ["http://www.pewhispanic.org/2015/11/19/more-mexicans-leaving-than-coming-to-the-u-s/"]
     },
     {
-      title: "Trump lies about raising money for Veterans.",
-      full_title: "Trump lies about raising money for Veterans.",
+      title: "lies about raising money for Veterans.",
       urls: ["http://news.groopspeak.com/breaking-trump-lied-about-funds-raised-for-veterans-breaks-down-after-questioning/"]
     },
     {
@@ -170,7 +169,7 @@ var data = {
       urls: ["https://www.washingtonpost.com/news/fact-checker/wp/2015/11/17/donald-trump-repeats-inaccurate-figure-that-over-300000-veterans-died-waiting-for-care/"]
     },
     {
-      title: "dodged the draft because of his 'bone spurs' (is now in 'perfect' health)",
+      title: "dodged the draft because of his 'bone spurs' (but is now in 'perfect' health)",
       full_title: "Trump dodged the draft because of 'bone spurs' but is now in 'perfect' health",
       urls: ["http://www.thesmokinggun.com/file/trump-draft-deferment", "http://reverbpress.com/politics/time-hypocrite-slimebag-donald-trump-lied-dodging-vietnam-draft-video/"]
     },
@@ -179,7 +178,7 @@ var data = {
       urls: ["http://new.www.huffingtonpost.com/entry/trump-charity-lies_us_575b4094e4b00f97fba86ae1"]
     },
     {
-      title: "claimes he donated $100 million dollars. won't provide records and extensive research ",
+      title: "claimes he donated $100 million dollars. refuses to provide any evidence",
       full_title: "Claimes he donated $100 million dollars without providing any records or evidence or naming who he donated too.",
       urls: ["http://www.inquisitr.com/2303241/donald-trump-boasts-102-million-in-charity-giving-but-wheres-the-proof/"]
     },
@@ -212,7 +211,7 @@ var data = {
       ]
     },
     {
-      title: "promises to force the military to commit war crimes after they balked at targeting innocents",
+      title: "promises to force the military to commit war crimes after they balked at murdering innocents",
       urls: [
         "http://www.washingtontimes.com/news/2016/mar/3/donald-trump-says-hed-force-us-military-commit-war/",
         "http://www.politifact.com/truth-o-meter/statements/2015/dec/17/rand-paul/rand-pauls-right-geneva-conventions-bar-donald-tru/",
@@ -224,11 +223,11 @@ var data = {
       ]
     },
     {
-      title: "about torture, claims \"Even if it doesn't work they probably deserved it anyway\"",
+      title: "about torture, claims \"even if it doesn't work they probably deserved it anyway\"",
       urls: ["http://www.cnn.com/2016/03/11/opinions/trump-wrong-on-american-torture/", "http://www.cnsnews.com/news/article/patrick-goodenough/trump-waterboarding-it-works-if-it-doesnt-work-they-deserve-it", "https://www.theguardian.com/us-news/2015/nov/24/donald-trump-on-waterboarding-even-if-it-doesnt-work-they-deserve-it"]
     },
     {
-      title: "justifies commiting torture by pointing to ISIS saying we should be \"fighting fire with fire\"",
+      title: "justifies commiting torture by citing ISIS and saying America should be \"fighting fire with fire\"",
       urls: ["http://talkingpointsmemo.com/livewire/trump-responds-istanbul-waterboarding-torture"]
     },
     {
@@ -268,7 +267,7 @@ var data = {
       urls: ["http://www.reuters.com/article/us-usa-election-idUSKCN0WM0RJ", "http://english.alarabiya.net/en/News/world/2016/03/21/Trump-refuses-to-condemn-violence-at-his-U-S-presidential-rallies-.html", "http://www.japantoday.com/category/world/view/trump-refuses-to-condemn-violence-at-his-rallies", "http://www.nationalmemo.com/trump-refuses-to-condemn-violence-at-his-u-s-presidential-rallies/", "http://www.vox.com/2016/3/14/11219256/trump-violent"]
     }, 
     {
-      title: "defended 'passionate' supporters who brutally beat and urinated on a homeless man",
+      title: "defended 'passionate' supporters who beat and urinated on a homeless man",
       urls: ["https://www.washingtonpost.com/news/morning-mix/wp/2015/08/21/trump-says-fans-are-very-passionate-after-hearing-one-of-them-allegedly-assaulted-hispanic-man/", "http://www.ibtimes.co.uk/donald-trump-calls-boston-brothers-who-beat-homeless-hispanic-man-his-name-passionate-1516392", "https://www.bostonglobe.com/metro/2015/08/20/after-two-brothers-allegedly-beat-homeless-man-one-them-admiringly-quote-donald-trump-deporting-illegals/I4NXR3Dr7litLi2NB4f9TN/story.html", "http://gothamist.com/2015/08/20/trump_ugh_enough.php", "http://national.suntimes.com/national-world-news/7/72/1680630/trump-boston-hate-crime/", "http://www.dailymail.co.uk/news/article-3204702/Boston-brothers-viciously-attack-urinate-homeless-Hispanic-man-inspired-Donald-Trump-responds-saying-passionate-supporters.html"]
     }, 
     {
