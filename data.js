@@ -42,6 +42,10 @@ var data = {
       urls: ["http://www.politifact.com/truth-o-meter/statements/2015/jul/06/donald-trump/donald-trumps-art-deal-best-selling-business-book-/"]
     },
     {
+      title: "lied about Alicia Machado having a sex tape",
+      urls: ["https://thinkprogress.org/trump-sex-tape-lie-is-his-most-blatant-lie-yet-48b830f5562d#.hrcouxg7n"]
+    },
+    {
       title: "lied 37 times in one day",
       urls: ["https://twitter.com/ddale8/status/790911682583355392"]
     },
@@ -73,6 +77,10 @@ var data = {
     {
       title: "claims the U.S has no process for vetting refugees",
       urls: ["http://www.alan.com/2016/06/14/trump-falsely-claims-no-system-for-vetting-refugees/"]
+    },
+    {
+      title: "his own lawyers knew his lying was so pathological, they testified that they met with him in pairs",
+      urls: ["http://abovethelaw.com/2016/10/trumps-lawyers-really-dont-trust-him/"]
     },
     {
       title: "claims the U.S only allows Muslim refugees and refuses to let Christians in.",
@@ -438,6 +446,10 @@ var data = {
       urls:["https://twitter.com/realDonaldTrump/status/411247268763676673?ref_src=twsrc%5Etfw"]
     },
     {
+      title: "You can get an abortion on the final day of your pregnancy",
+      urls: ["http://www.cnn.com/2016/10/20/politics/donald-trump-hillary-clinton-abortion-fact-check/"]
+    },
+    {
       title: "Scalia was murdered",
       full_title: "79 year old Scalia was murdered",
       urls: ["http://www.rightwingwatch.org/content/donald-trump-raises-suspicions-about-justice-scalias-death"]
@@ -558,6 +570,26 @@ var data = {
     {
       title: "Over 50 former Trump models describe Trumps distrust of women, his numerous affairs and his habit of forcing himself onto women half his age while making unwanted sexual advances.",
       urls: ["http://www.nytimes.com/2016/05/15/us/politics/donald-trump-women.html"]
+    },
+    {
+      title: "Called Alicia Machado 'Miss Piggy' and 'Miss Housekeeping'",
+      urls: ["http://www.nbcnews.com/storyline/2016-presidential-debates/who-s-alicia-machado-woman-trump-allegedly-called-miss-piggy-n655116"]
+    },
+    {
+      title: "Humiliated Alicia Machado for gaining weight",
+      urls: ["http://www.slate.com/blogs/xx_factor/2016/05/17/when_donald_trump_humiliated_miss_universe_for_gaining_weight.html"]
+    },
+    {
+      title: "said 'vagina is expensive'",
+      urls: ["https://t.co/RN3TlsCaEx"]
+    },
+    {
+      title: "said 'she would not be my first choice' about a sexual assault accuser",
+      urls: ["http://www.msnbc.com/rachel-maddow/watch/trump-she-would-not-be-my-first-choice-786553411846"]
+    },
+    {
+      title: "said 'Oh like she's never been groped before' about a sex worker who claimed he groped her",
+      urls: ['https://thinkprogress.org/trump-jessica-drake-never-been-groped-b90add11ef8a#.gqd5o64z4']
     },
     {
       title: "Journalist claims Trump sexually harassed her after interview.",
