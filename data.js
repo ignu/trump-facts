@@ -452,10 +452,30 @@ var data = {
       urls: ["http://www.hollywoodreporter.com/news/donald-trump-defends-roger-ailes-913993"]
     },
     {
+      title: "commented at a 10 year old girl that he'd be 'dating her in ten years'",
+      urls: ["https://www.theguardian.com/us-news/video/2016/oct/13/trump-makes-inappropriate-remarks-about-10-year-old-girl-video"]
+    },
+    {
+      title: "bragged he could 'grab [women] by the p***y' because he was rich",
+      urls: ["https://www.youtube.com/watch?v=ihMvO-IrXlQ"]
+    },
+    {
+      title: "recently accused of sexual assault by 16 different women",
+      urls: ["http://nymag.com/thecut/2016/10/all-the-women-accusing-trump-of-rape-sexual-assault.html"]
+    },
+    {
+      title: "bragged to Howard Stern that he could barge into models' dressing rooms",
+      urls: ["http://thehill.com/blogs/ballot-box/presidential-races/300093-trump-confirms-he-walked-backstage-when-beauty-queens"]
+    },
+    {
+      title: "accused of barging into dressing rooms where 15 year-old girls were naked",
+      urls: ["http://www.slate.com/blogs/xx_factor/2016/10/12/donald_trump_walked_in_on_half_dressed_teen_girls_in_the_dressing_room_pageant.html"]
+    },
+    {
       title: "forced models to do humiliating tasks to 'Weed out the ugly ones'",
       urls: ["http://www.newser.com/story/73902/trump-weeds-out-ugly-girls.html",
       "http://www.washingtonpost.com/lifestyle/style/column-anna-holmes-on-donald-trumps-sexism/2011/04/21/AFmSfEHF_story.html"]
-  },
+   },
     {
       title: "argues prosecutor should allow rapist to pay victim compensation instead of face jail time.",
       full_title: "argues prosecutor should allow rapist to pay victim compensation instead of face jail time.",
