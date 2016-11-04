@@ -6,12 +6,20 @@ var data = {
   },
   liar: [
     {
+      title: "constantly lies about how rich he is",
+      urls: ["http://www.nytimes.com/2016/11/04/us/politics/donald-trump-money.html"]
+    },
+    {
       title: "lied 87 times in a week's worth ofpublic apperances. once every three miutes",
       urls: ["http://www.politico.com/magazine/story/2016/09/2016-donald-trump-fact-check-week-214287?utm_source=huffingtonpost.com&utm_medium=referral&utm_campaign=pubexchange"]
     },
     {
       title: "lies about self funding his campaign",
       urls: ["http://www.theatlantic.com/politics/archive/2016/05/trumps-self-funding-lie/482691/", "http://www.ijreview.com/2015/11/469588-donald-trump-keeps-saying-his-campaign-is-self-funded-but-that-is-just-not-true/", "http://www.politico.com/story/2015/10/donald-trump-fec-fundraising-214838", "http://www.politicususa.com/2016/05/15/myth-donald-trumps-self-funded-campaign-officially-dead.html", "http://therightscoop.com/cnn-exposes-trump-lie-that-hes-self-funding-his-campaign/"]
+    },
+    {
+      title: "constantly lies about not supporting the Iraq War",
+      urls: ["https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-check-yes-trump-did-oppose-the-iraq-war/"]
     },
     {
       title: "lies about campaign spending",
@@ -22,12 +30,20 @@ var data = {
       urls: ["http://www.dailywire.com/news/4373/trump-keeps-saying-polls-show-him-beating-hillary-aaron-bandler#modal"]
     },
     {
+      title: "lies about endorsments that he didn't get",
+      urls: ["http://www.nbcnews.com/politics/2016-election/trump-cites-police-military-ice-endorsements-didn-t-happen-n672336?cid=par-twitter-feed_20161026"]
+    },
+    {
       title: "lied 71 times in an hour speech",
       urls: ["http://new.www.huffingtonpost.com/entry/donald-trump-fact-check_us_56fc375fe4b0daf53aee9175"]
     },
     {
       title: "claims The Art of the Deal is the best selling business book of all time.",
       urls: ["http://www.politifact.com/truth-o-meter/statements/2015/jul/06/donald-trump/donald-trumps-art-deal-best-selling-business-book-/"]
+    },
+    {
+      title: "lied 37 times in one day",
+      urls: ["https://twitter.com/ddale8/status/790911682583355392"]
     },
     {
       title: "lied about his campaign manager assaulting a female reporter until tape of it was released",
@@ -37,6 +53,14 @@ var data = {
       title: "falsely claims Hillary wants to release violent criminals from jail",
       leaning: 1,
       urls: ["http://www.nytimes.com/2016/05/21/us/politics/nra-guns-donald-trump-hillary-clinton.html"]
+    },
+    {
+      title: "told by intelligence agencies about Russia's hacks, still lies about it",
+      urls: ["http://www.nbcnews.com/news/us-news/trump-was-told-russia-was-blame-hacks-long-debate-n663686"]
+    },
+    {
+      title: "promised a 9/11 charity $10,000 and never came through",
+      urls: ["http://www.dailykos.com/story/2016/10/14/1582377/-Donald-Trump-pledged-10-000-to-9-11-charity-back-in-2001-Guess-what"]
     },
     {
       title: "claimed the U.S is “losing jobs like never before.” days after acknowledging job the creation of 271,000 jobs in a month",
@@ -86,6 +110,18 @@ var data = {
       title: "claims he can't release his taxes because he's under audit (IRS says that's not an excuse)",
       full_title: "claims he can't release his taxes because he's under audit (IRS says that's a B.S. excuse)",
       urls: ["http://www.usatoday.com/story/news/politics/onpolitics/2016/02/26/donald-trump-internal-revenue-service-audits/80996086/"]
+    },
+    {
+      title: "won't take back saying he has a relationship with Putin but says he has no relationship with Putin",
+      urls: ["https://thinkprogress.org/trump-putin-extra-22babc3a8e19#.gch4p7i58"]
+    },
+    {
+      title: "video found of Trump with mob figure he denied knowing",
+      urls: ["https://t.co/tiZIySbhGr"]
+    },
+    {
+      title: "destroyed emails in defiance of court orders",
+      urls: ["http://www.newsweek.com/2016/11/11/donald-trump-companies-destroyed-emails-documents-515120.html"]
     },
     {
       title: "claimed Oakland and Ferguson are among the most dangerous cities in the world. (they aren’t even among the most dangerous in their states)",
@@ -290,7 +326,7 @@ var data = {
     {
       title: "still claims The Central Park Five are guilty after they were exonerated",
       full_title: "but he still implies they were guilty after they were exonerated",
-      urls: ["https://twitter.com/realDonaldTrump/status/325982969040879620?ref_src=twsrc%5Etfw"]
+      urls: ["http://nymag.com/daily/intelligencer/2016/10/trump-the-central-park-5-are-guilty-despite-dna-evidence.html?mid=twitter-share-di", "https://twitter.com/realDonaldTrump/status/325982969040879620?ref_src=twsrc%5Etfw"]
     },
     {
       title: "says he might have insituted internment camps in WWII",
@@ -445,6 +481,10 @@ var data = {
       title: "said '[women] you have to treat 'em like shit' before pouring wine down the back of a female journalist",
       full_title: "said '[women] you have to treat 'em like shit' before pouring wine down the back of a female journalist and bragging about it",
       urls: ["http://www.thedailybeast.com/articles/2015/08/08/you-have-to-treat-em-like-shit-before-megyn-kelly-trump-dumped-wine-on-a-female-reporter.html", "http://www.ibtimes.com/42-horrible-things-donald-trump-has-said-about-women-next-republican-presidential-2345140"]
+    },
+    {
+      title: "kisses and humilates a former Miss Universe on stage",
+      urls: ["http://www.vox.com/identities/2016/10/28/13459750/trump-video-miss-universe-grab-kiss-jennifer-hawkins"]
     },
     {
       title: "defends Roger Ailes as 'a Very Good Person'",
