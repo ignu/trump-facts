@@ -86,7 +86,7 @@ var data = {
       title: "claims he can't release his taxes because he's under audit (IRS says that's a B.S. excuse)",
       full_title: "claims he can't release his taxes because he's under audit (IRS says that's a B.S. excuse)",
       urls: ["http://www.usatoday.com/story/news/politics/onpolitics/2016/02/26/donald-trump-internal-revenue-service-audits/80996086/"]
-    }
+    },
     {
       title: "claims Oakland and Ferguson are among the most dangerous cities in the world. (they aren’t even among the most dangerous in their states)",
       urls: ["http://www.politifact.com/truth-o-meter/statements/2016/may/25/donald-trump/donald-trumps-false-claim-oakland-ferguson-are-amo/", "https://www.washingtonpost.com/news/the-fix/wp/2016/05/18/donald-trump-somehow-thinks-ferguson-and-oakland-are-dangerous-like-iraq/"]
@@ -203,7 +203,7 @@ var data = {
   ],
   fascist: [
     {
-      title: "openly calls for targeting innocent women and children for murder (a war crime)",
+      title: "calls for targeting innocent women and children for murder",
       urls: [
         "http://thinkprogress.org/politics/2015/12/15/3732671/trump-isis-kill-family-members/",
         "http://www.independent.co.uk/news/world/americas/donald-trump-reiterates-desire-to-murder-terrorists-families-a6912496.html",
@@ -212,7 +212,7 @@ var data = {
       ]
     },
     {
-      title: "promised to force the military to commit war crimes after they balked",
+      title: "promises to force the military to commit war crimes after they balked at targeting innocents",
       urls: [
         "http://www.washingtontimes.com/news/2016/mar/3/donald-trump-says-hed-force-us-military-commit-war/",
         "http://www.politifact.com/truth-o-meter/statements/2015/dec/17/rand-paul/rand-pauls-right-geneva-conventions-bar-donald-tru/",
@@ -224,11 +224,11 @@ var data = {
       ]
     },
     {
-      title: "about torture thinks \"Even if it doesn't work they probably deserved it anyway\"",
+      title: "about torture, claims \"Even if it doesn't work they probably deserved it anyway\"",
       urls: ["http://www.cnn.com/2016/03/11/opinions/trump-wrong-on-american-torture/", "http://www.cnsnews.com/news/article/patrick-goodenough/trump-waterboarding-it-works-if-it-doesnt-work-they-deserve-it", "https://www.theguardian.com/us-news/2015/nov/24/donald-trump-on-waterboarding-even-if-it-doesnt-work-they-deserve-it"]
     },
     {
-      title: "points to ISIS to justify torture saying we should be \"fighting fire with fire\"",
+      title: "justifies commiting torture by pointing to ISIS saying we should be \"fighting fire with fire\"",
       urls: ["http://talkingpointsmemo.com/livewire/trump-responds-istanbul-waterboarding-torture"]
     },
     {
@@ -256,7 +256,8 @@ var data = {
     },
     {
       title: "proposed mandatory death penalty for killing a police officer",
-      urls: ["http://www.cnn.com/2015/12/10/politics/donald-trump-police-officers-death-penalty/"]
+      urls: ["http://www.cnn.com/2015/12/10/politics/donald-trump-police-officers-death-penalty/"],
+      leaning: -1
     },
     {
       title: "pledges to open up libel laws on newspapers to stifle freedom of speech",
@@ -284,11 +285,11 @@ var data = {
       urls: ["https://www.theguardian.com/us-news/2016/aug/09/trump-gun-owners-clinton-judges-second-amendment", "http://www.cnn.com/2016/09/16/politics/donald-trump-hillary-clinton-guns-secret-service/index.html"]
     },
     {
-      title: "called for the execution of minority children known as 'The Central Park Five' (turns out, DNA evidence found they were innocent)",
+      title: "called for the execution of 'The Central Park Five' (turns out, DNA evidence found they were innocent)",
       urls: ["http://www.theguardian.com/us-news/2016/feb/17/central-park-five-donald-trump-jogger-rape-case-new-york", "http://www.newyorker.com/news/amy-davidson/donald-trump-and-the-central-park-five", "https://twitter.com/realDonaldTrump/status/325982969040879620?ref_src=twsrc%5Etfw"]
     },
     {
-      title: "but still implies they were guilty after they were exonerated",
+      title: "still claims The Central Park Five are guilty after they were exonerated",
       full_title: "but he still implies they were guilty after they were exonerated",
       urls: ["https://twitter.com/realDonaldTrump/status/325982969040879620?ref_src=twsrc%5Etfw"]
     },
@@ -301,7 +302,7 @@ var data = {
       title: "wants to remove Muslim TSA agents",
       full_title: "wants to remove Muslim TSA agents",
       urls: ["http://www.nydailynews.com/news/politics/donald-trump-considers-supporter-plan-fire-muslim-tsa-agents-article-1.2695675", "http://abcnews.go.com/Politics/donald-trump-request-rally-goer-replace-hijab-wearing/story?id=40269164"]
-    }, 
+    },
     {
       title: "said the Chinese government 'showed strength' in response to the Tienanmen Square protests",
       full_title: "said the Chinese government 'showed strength' in response to the Tienanmen Square protests",
@@ -328,8 +329,7 @@ var data = {
       }
     },
     {
-      title: "temperatures are at record lows",
-
+      title: "global temperatures are at record lows",
       full_title: "Global Warming is \"bullshit\" and temperatures are at record lows",
       urls: [
         "https://twitter.com/realDonaldTrump/status/418542137899491328?ref_src=twsrc%5Etfw"
@@ -363,7 +363,7 @@ var data = {
       urls: ["https://twitter.com/realDonaldTrump/status/449525268529815552?ref_src=twsrc%5Etfw"]
     },
     {
-      title: "and doctors are lying about vaccines not causing autism",
+      title: "doctors are lying about vaccines not causing autism",
       full_title: "doctors are lying about vaccines not causing autism",
       urls: ["https://twitter.com/realDonaldTrump/status/507158574670573568?ref_src=twsrc%5Etfw"]
     },
@@ -374,7 +374,7 @@ var data = {
       ]
     },
     {
-      title: "the unemployment rate might be 42%",
+      title: "the unemployment rate in the United States might be 42%",
       urls: ["http://www.politifact.com/truth-o-meter/statements/2015/sep/30/donald-trump/donald-trump-says-unemployment-rate-may-be-42-perc/"]
     },
     {
@@ -386,7 +386,7 @@ var data = {
       ]
     },
     {
-      title: "Obama is a Secret Muslim",
+      title: "Obama is a secret Muslim",
       urls: ["http://mediamatters.org/research/2015/09/18/from-fox-to-the-campaign-trail-trump-previously/205642"]
     },
     {
@@ -394,7 +394,7 @@ var data = {
       urls: ["http://mediamatters.org/blog/2015/06/16/the-worst-of-donald-trumps-media-commentary/204012"]
     },
     {
-      title: "Obama was born ‘Barry Soetoro’",
+      title: "Obama's birth name is ‘Barry Soetoro’",
       full_title: "Obama's birth name is ‘Barry Soetoro’",
       urls: ["https://twitter.com/realDonaldTrump/status/525492766366007296", "http://www.foxnews.com/transcript/2011/04/15/exclusive-donald-trump-rips-into-president-obama-past/"]
     },
@@ -423,7 +423,7 @@ var data = {
       urls: ["http://www.dailymail.co.uk/news/article-3178232/Trump-called-lawyer-disgusting-asked-court-break-pump-breast-milk.html"]
     },
     {
-      title: "employee describes Trump committing workplace sexual misconduct.",
+      title: "In February, an employee described Trump committing workplace sexual misconduct.",
       full_title: "employee describes Trump committing workplace sexual misconduct.",
       urls: ["http://www.nydailynews.com/opinion/barbara-res-donald-trump-boss-article-1.2525669"]
     },
@@ -438,12 +438,12 @@ var data = {
       urls: ["http://thisguycantbepresident.com/mothers-dont-deserve-jobs/"]
     },
     {
-      title: "thinks the Disney movie Mulan was liberal propaganda created to convince women to join the military instead of staying home where they belong in order to weaken the military.",
+      title: "thinks Mulan is propaganda created to convince women to join the military in order to weaken it.",
       full_title: "thinks the Disney movie Mulan was liberal propaganda created to convince women to join the military instead of staying home where they belong in order to weaken the military.",
       urls: ["https://www.buzzfeed.com/andrewkaczynski/mister-ill-make-a-man-out-of-you?utm_term=.miJgBapyx#.dvZEldG9v"]
     },
     {
-      title: "said '[women] you have to treat 'em like shit' before pouring wine down the back of a female journalist and bragging about it",
+      title: "said '[women] you have to treat 'em like shit' before pouring wine down the back of a female journalist",
       full_title: "said '[women] you have to treat 'em like shit' before pouring wine down the back of a female journalist and bragging about it",
       urls: ["http://www.thedailybeast.com/articles/2015/08/08/you-have-to-treat-em-like-shit-before-megyn-kelly-trump-dumped-wine-on-a-female-reporter.html", "http://www.ibtimes.com/42-horrible-things-donald-trump-has-said-about-women-next-republican-presidential-2345140"]
     },
@@ -453,7 +453,7 @@ var data = {
       urls: ["http://www.hollywoodreporter.com/news/donald-trump-defends-roger-ailes-913993"]
     },
     {
-      title: "forces models to do humiliating tasks to 'Weed out the ugly ones'",
+      title: "forced models to do humiliating tasks to 'Weed out the ugly ones'",
       urls: ["http://www.newser.com/story/73902/trump-weeds-out-ugly-girls.html",
       "http://www.washingtonpost.com/lifestyle/style/column-anna-holmes-on-donald-trumps-sexism/2011/04/21/AFmSfEHF_story.html"]
   },
@@ -463,7 +463,7 @@ var data = {
       urls: ["https://news.google.com/newspapers?nid=1314&dat=19920214&id=BV1WAAAAIBAJ&sjid=QPADAAAAIBAJ&pg=2003,1825091&hl=en"]
     },
     {
-      title: "defends military personnel accused of sexual assault and rape by putting the blame on the fact women are allowed to serve along men in the military.",
+      title: "defends military accused of sexual assault and rape by blaming the fact women are allowed to serve in the military alongside men.",
       full_title: "defends military personnel accused of sexual assault and rape by putting the blame on the fact women are allowed to serve along men in the military.",
       urls: [
         "http://www.inquisitr.com/2733754/yes-donald-trumps-sexual-assault-in-the-military-tweet-is-real/",
@@ -475,7 +475,7 @@ var data = {
       urls: ["http://www.starpulse.com/creepy-donald-trump-reportedly-stalked-princess-diana-who-he-considere-1848499616.html", "http://www.thedailybeast.com/articles/2016/02/26/trump-i-could-have-nailed-princess-diana.html"]
     },
     {
-      title: "Multiple women working on Trump campaign file complaints with Civil Rights Commission against Trump for sexual harassment or sexual discrimination.",
+      title: "Multiple women working on Trump campaign filed complaints with Civil Rights Commission against Trump for sexual harassment or sexual discrimination.",
       full_title: "Multiple women working on Trump campaign file complaints with Civil Rights Commission against Trump for sexual harassment or sexual discrimination.",
       urls: ["https://www.washingtonpost.com/news/post-politics/wp/2016/01/31/donald-trump-denies-allegations-of-gender-based-discrimination-from-former-employee/"]
     },
@@ -485,18 +485,17 @@ var data = {
        "http://bipartisanreport.com/2016/03/07/donald-trump-has-a-125-million-sexual-assault-lawsuit-that-he-didnt-want-you-to-know-about/"]
     },
     {
-      title: "pageant contestants claims Trump sexually assaulted her.",
+      title: "In May a pageant contestant claimed Trump sexually assaulted her.",
       urls: ["http://www.newser.com/story/225129/donald-trump-kissed-pageant-contestants-on-the-mouth.html"]
     },
     {
-      title: "is accused of rape by his ex-wife.",
-      full_title: "is accused of rape by his ex-wife.",
+      title: "was accused of rape by his ex-wife.",
       urls: ["http://www.express.co.uk/news/world/638063/Donald-Trump-rape-ex-wife-Ivana-plastic-surgery-operation-documentary", "http://www.independent.co.uk/news/people/donald-trump-ex-wife-claim-he-raped-her-resurfaces-in-new-documentary-a6836151.html", "http://gawker.com/the-time-donald-trumps-ex-wife-accused-him-of-brutally-1721129617", "https://broadly.vice.com/en_us/article/he-raped-me-when-donald-trump-was-accused-of-sexual-assault?utm_source=vnfbus"]
     },
     {
       title: "accused of rape or sexual assault by numerous women over several decades",
       urls: ["http://www.dailymail.co.uk/news/article-3578088/Dark-tales-molesting-beauty-queens-raping-ex-wife-Claims-racism-cosying-mafia-gets-closer-White-House-TRUMP-stripped-bare.html", "http://www.dailyrecord.co.uk/news/uk-world-news/donald-trump-accused-rape-woman-7858242#rJUj9YEHx7x9Hf8m.97", "http://www.mirror.co.uk/news/world-news/donald-trump-denies-rape-teenage-7857357", "https://www.mrconservative.com/2016/04/72311-breaking-trump-accused-of-raping-13-year-old-girl/", "http://www.inquisitr.com/3044556/donald-trump-rape-lawsuit-claims-trump-forced-12-and-13-year-old-girls-to-peform-oral-sex-on-him/", "http://www.redstate.com/sweetie15/2016/04/29/donald-trump-named-lawsuit-alleging-rape-teen-girl/", "http://www.dailymail.co.uk/news/article-3546047/Beauty-pageant-organizer-accused-Trump-unwanted-fondling-contestant-claimed-said-women-bimbos.html", "http://www.nydailynews.com/archives/gossip/harassment-suit-trumped-article-1.764918b", "http://www.independent.co.uk/news/world/americas/donald-trump-unsettling-behaviour-dozens-women-a7030506.html", "http://therealdeal.com/2016/06/20/jane-doe-files-civil-rape-complaint-against-donald-trump-in-ny-court/", "http://www.deathandtaxesmag.com/294361/donald-trump-jeffrey-epstein-teen-girl-rape/"]
-    }, 
+    },
     {
       title: "Over 50 former Trump models describe Trumps distrust of women, his numerous affairs and his habit of forcing himself onto women half his age while making unwanted sexual advances.",
       urls: ["http://www.nytimes.com/2016/05/15/us/politics/donald-trump-women.html"]
