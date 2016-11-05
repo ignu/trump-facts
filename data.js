@@ -10,7 +10,7 @@ var data = {
       urls: ["http://www.nytimes.com/2016/11/04/us/politics/donald-trump-money.html"]
     },
     {
-      title: "lied 87 times in a week's worth ofpublic apperances. once every three miutes",
+      title: "lied 87 times in a week's worth of public appearances once every three minutes",
       urls: ["http://www.politico.com/magazine/story/2016/09/2016-donald-trump-fact-check-week-214287?utm_source=huffingtonpost.com&utm_medium=referral&utm_campaign=pubexchange"]
     },
     {
@@ -30,7 +30,7 @@ var data = {
       urls: ["http://www.dailywire.com/news/4373/trump-keeps-saying-polls-show-him-beating-hillary-aaron-bandler#modal"]
     },
     {
-      title: "lies about endorsments that he didn't get",
+      title: "lies about endorsements that he didn't get",
       urls: ["http://www.nbcnews.com/politics/2016-election/trump-cites-police-military-ice-endorsements-didn-t-happen-n672336?cid=par-twitter-feed_20161026"]
     },
     {
@@ -222,8 +222,8 @@ var data = {
       urls: ["http://new.www.huffingtonpost.com/entry/trump-charity-lies_us_575b4094e4b00f97fba86ae1"]
     },
     {
-      title: "claimes he donated $100 million dollars. refuses to provide any evidence",
-      full_title: "Claimes he donated $100 million dollars without providing any records or evidence or naming who he donated too.",
+      title: "claims he donated $100 million dollars. refuses to provide any evidence",
+      full_title: "Claims he donated $100 million dollars without providing any records or evidence or naming who he donated too.",
       urls: ["http://www.inquisitr.com/2303241/donald-trump-boasts-102-million-in-charity-giving-but-wheres-the-proof/"]
     },
     {
@@ -271,7 +271,7 @@ var data = {
       urls: ["http://www.cnn.com/2016/03/11/opinions/trump-wrong-on-american-torture/", "http://www.cnsnews.com/news/article/patrick-goodenough/trump-waterboarding-it-works-if-it-doesnt-work-they-deserve-it", "https://www.theguardian.com/us-news/2015/nov/24/donald-trump-on-waterboarding-even-if-it-doesnt-work-they-deserve-it"]
     },
     {
-      title: "justifies commiting torture by citing ISIS and saying America should be \"fighting fire with fire\"",
+      title: "justifies committing torture by citing ISIS and saying America should be \"fighting fire with fire\"",
       urls: ["http://talkingpointsmemo.com/livewire/trump-responds-istanbul-waterboarding-torture"]
     },
     {
@@ -293,7 +293,7 @@ var data = {
       urls: ["http://blogs.abcnews.com/george/2011/04/donald-trumps-solution-on-gas-prices-get-tough-with-saudi-arabia-seize-oil-fields-in-libya-and-iraq.html", "http://www.forbes.com/sites/williampentland/2011/04/23/dumbest-guy-in-the-room-donald-trumps-energy-policy/#700458db29b9"]
     },
     {
-      title: "when asked about that plan, clarrified that “We’re not stealing anything. We’re taking.“",
+      title: "when asked about that plan, clarified that “We’re not stealing anything. We’re taking.“",
       full_title: "When asked for clarification about the above mentioned plan to steal land from multiple nations on two different continents Trump responded with, “We’re not stealing anything. We’re taking.“",
       urls: ["http://content.time.com/time/specials/packages/article/0,28804,2068227_2068229_2068345,00.html"]
     },
@@ -337,7 +337,7 @@ var data = {
       urls: ["http://nymag.com/daily/intelligencer/2016/10/trump-the-central-park-5-are-guilty-despite-dna-evidence.html?mid=twitter-share-di", "https://twitter.com/realDonaldTrump/status/325982969040879620?ref_src=twsrc%5Etfw"]
     },
     {
-      title: "says he might have insituted internment camps in WWII",
+      title: "says he might have internment internment camps in WWII",
       full_title: "says he might have insituted internment camps in WWII",
       urls: ["http://time.com/4140050/donald-trump-muslims-japanese-internment/"]
     },
@@ -359,7 +359,7 @@ var data = {
   ],
   crazy: [
     {
-      title: "global warming is a hoax pepetrated by the Chinese",
+      title: "global warming is a hoax perpetrated by the Chinese",
       urls: [
         "https://twitter.com/realDonaldTrump/status/265895292191248385?ref_src=twsrc%5Etfw"
       ],
@@ -411,7 +411,7 @@ var data = {
       urls: ["https://twitter.com/realDonaldTrump/status/507158574670573568?ref_src=twsrc%5Etfw"]
     },
     {
-      title: "Ted Cruz’s dad was involved in JFK's assasination",
+      title: "Ted Cruz’s dad was involved in JFK's assassination",
       urls: [
         "http://www.politico.com/blogs/2016-gop-primary-live-updates-and-results/2016/05/trump-ted-cruz-father-222730"
       ]
@@ -499,7 +499,7 @@ var data = {
       urls: ["http://www.thedailybeast.com/articles/2015/08/08/you-have-to-treat-em-like-shit-before-megyn-kelly-trump-dumped-wine-on-a-female-reporter.html", "http://www.ibtimes.com/42-horrible-things-donald-trump-has-said-about-women-next-republican-presidential-2345140"]
     },
     {
-      title: "kisses and humilates a former Miss Universe on stage",
+      title: "kisses and humiliates a former Miss Universe on stage",
       urls: ["http://www.vox.com/identities/2016/10/28/13459750/trump-video-miss-universe-grab-kiss-jennifer-hawkins"]
     },
     {
