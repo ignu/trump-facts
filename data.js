@@ -446,6 +446,10 @@ var data = {
       urls:["https://twitter.com/realDonaldTrump/status/411247268763676673?ref_src=twsrc%5Etfw"]
     },
     {
+      title: "Clinton can and will bring in 650 million immigrants into the United States her first week as president",
+      urls: ["https://www.washingtonpost.com/news/the-fix/wp/2016/10/31/donald-trump-warns-that-650-million-immigrants-could-come-to-the-u-s-in-a-week-lets-do-the-math/"]
+    },
+    {
       title: "You can get an abortion on the final day of your pregnancy",
       urls: ["http://www.cnn.com/2016/10/20/politics/donald-trump-hillary-clinton-abortion-fact-check/"]
     },
