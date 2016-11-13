@@ -372,6 +372,12 @@ var data = {
       }
     },
     {
+      title: "Clinton used physical bleach on her emails",
+      urls: [
+        "https://youtu.be/UOPXkeITZzY"
+      ]
+    },
+    {
       title: "global temperatures are at record lows",
       full_title: "Global Warming is \"bullshit\" and temperatures are at record lows",
       urls: [
